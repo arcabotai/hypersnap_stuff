@@ -20,7 +20,7 @@ Template example:
 ### GenyCaster
 - Description: GenyCaster is a high-performance, local-first Farcaster client with a cross-platform, multi-node architecture built for the next generation of social experiences.
 - Developer: [GenyLeap](https://genyleap.com)
-- Link(s): [Website](https://genycaster.xyz)
+- Link(s): [website](https://genycaster.xyz)
 - Pure HyperSnap? ✅ (By default, with support for multiple nodes and protocols.)
 
 ### Linkcast
@@ -40,6 +40,12 @@ Template example:
 - Developer: [Quilibrium](https://github.com/QuilibriumNetwork/)
 - Link(s): [website](https://www.quorummessenger.com/)
 - Pure hypersnap? ✅
+
+### Terminus
+- Description: A lightweight, native iOS client for Hypersnap. Feeds, threads, channels, notifications and posting, with your keys kept on your iPhone.
+- Developer: [kyb](https://warpcats.com/kyb)
+- Link(s): [TestFlight](https://testflight.apple.com/join/cSPBnkud)
+- Pure hypersnap? ✅ (Every read and post goes to Hypersnap nodes, and sign-in adds a Hypersnap-only signer. Two read-only lookups go to Farcaster's public API through Terminus's proxy: the channel directory (names and images) and accounts' opt-in status.)
 
 ## Applications
 
