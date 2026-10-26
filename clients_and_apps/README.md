@@ -37,8 +37,8 @@ Template example:
 
 ## Applications
 
-### warpcats and forkcaster
-- Description: TBC
-- Developer: TBC
-- Link(s): TBC
-- Pure hypersnap? TBC
+### Forkcaster 🍴
+- Description: drop-in replacement for any farcaster or warpcast URL, letting users decide which client to use
+- Developer: [decent-artlu](https://forkcaster.xyz/decent-artlu)
+- Link(s): [forkcaster](https://forkcaster.xyz), [warpcats](https://warpcats.com), [/transparency](https://forkcaster.xyz/transparency)
+- Pure hypersnap? **no**, attempts to simulate flagship Farcaster experience
