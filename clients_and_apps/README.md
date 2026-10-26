@@ -18,10 +18,16 @@ Template example:
 ## Clients
 
 ### GenyCaster
-- Description: TBC
-- Developer: TBC
-- Link(s): TBC
-- Pure hypersnap? TBC
+- Description: GenyCaster is a high-performance, local-first Farcaster client with a cross-platform, multi-node architecture built for the next generation of social experiences.
+- Developer: [GenyLeap](https://genyleap.com)
+- Link(s): [Website](https://genycaster.xyz)
+- Pure HyperSnap? ✅ (By default, with support for multiple nodes and protocols.)
+
+### Linkcast
+- Description: Discover links on Farcaster.
+- Developer: https://warpcats.com/ghostlinkz.eth
+- Link(s): [website](https://linkcast.xyz) | [social](https://warpcats.com/linkcast)
+- Pure hypersnap? ✅ (All Farcaster data: casts, profiles, follows, reactions, threads and the webhook, comes from one Hypersnap node - haatz.quilibrium.com.)
 
 ### meowdy (unreleased)
 - Description: a CLI and TUI hypersnap client for terminals, scripting, agents and more.
