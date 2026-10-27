@@ -35,6 +35,12 @@ Template example:
 - Link(s): [demo video](https://x.com/arfonzo/status/2112353529180365281)
 - Pure hypersnap? ✅
  
+### Quilcast
+- Description: a fast, open-source Farcaster web client that talks to Hypersnap straight from the browser. Feeds, threads, notifications, posting, permissionless signup, multiple accounts, mini apps and MySpace-style profile looks.
+- Developer: [borodutch](https://quilcast.com/u/borodutch)
+- Link(s): [website](https://quilcast.com) | [source](https://github.com/backmeupplz/quilcast) | [social](https://quilcast.com/u/quilcast)
+- Pure hypersnap? no (every read and post goes to a Hypersnap node, haatz.quilibrium.com. Outside Hypersnap: signup registers the FID on Optimism and claims an fname from Farcaster's fname server, image/video uploads go to Farcaster's CDN, and Messages use farcaster.xyz direct casts.)
+
 ### Quorum
 - Description: official client from quilibrium. Privacy-focused application and website.
 - Developer: [Quilibrium](https://github.com/QuilibriumNetwork/)
