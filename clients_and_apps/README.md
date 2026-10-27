@@ -34,7 +34,13 @@ Template example:
 - Developer: [arfonzo](https://warpcats.com/arfonzo)
 - Link(s): [demo video](https://x.com/arfonzo/status/2112353529180365281)
 - Pure hypersnap? ✅
- 
+
+### Opencaster
+- Description: An independent browser client forked from Quorum Desktop, with public browsing and browser-held device signing keys. Client and gateway code are AGPL-3.0; the optional WalletConnect SDK uses a non-OSI Community License.
+- Developer: [Arca Computer](https://arca.computer)
+- Link(s): [website](https://opencaster.org) | [source and self-hosting](https://github.com/arcacomputer/opencaster/tree/main/hypersnap)
+- Pure hypersnap? ✅ (Social reads/writes and signer authorization use Hypersnap via a fixed `haatz.quilibrium.com` upstream, not Neynar or Farcaster-hosted APIs/login. The hosted gateway and media use Cloudflare; optional WalletConnect uses Reown's relay.)
+
 ### Quilcast
 - Description: a fast, open-source Farcaster web client that talks to Hypersnap straight from the browser. Feeds, threads, notifications, posting, permissionless signup, multiple accounts, mini apps and MySpace-style profile looks.
 - Developer: [borodutch](https://quilcast.com/u/borodutch)
